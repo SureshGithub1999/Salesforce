@@ -1,0 +1,19 @@
+{
+  "accessToken": "881dab17b72ad26280ea30db712ebb54e0d7883598896ec5c102818edf22c600816ce846fa00f6d003d9c7450487a1c4192ae77627f7a1d60c4bbed7fe3c38a1af6c17f0689e7796ac5514302425732ecb6d5a884134a6ec698b51490fa7912964e04a735a2f3562c0b69faa2807a067ee52ed74d097:e82606057ebecca4f3e44f31469bd0f4",
+  "instanceUrl": "https://d300000000qxieam--prolifics.sandbox.my.salesforce.com",
+  "orgId": "00Dbf00000011mrEAA",
+  "username": "suresh.koduri@prolifics.com.prolifics",
+  "loginUrl": "https://test.salesforce.com/",
+  "refreshToken": "3cbc4c0f12dfdc8d06d602c8563692a82eee26b6edb5d98a79245cbf94a54a8ce7abe7c4bac25fbf1f2ea734b65df45da9560df17f92cc53d437ac4c61a89011d387b841106522fe0ccefe5aff2dfca0f48bb2d49a676564cac5b28c60:9779535d7078b6016288a6a7fb96dd50",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "64.0",
+  "instanceApiVersionLastRetrieved": "8/18/2025, 12:42:01 PM",
+  "name": "Prolifics, a JYACC Company",
+  "instanceName": "USA874S",
+  "namespacePrefix": null,
+  "isSandbox": true,
+  "isScratch": false,
+  "trailExpirationDate": null,
+  "tracksSource": false
+}

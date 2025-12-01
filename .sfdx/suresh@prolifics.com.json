@@ -1,0 +1,19 @@
+{
+  "accessToken": "221c8c4e7e66ea6b37c219ade4ba2b7094a96e28d270a23b89e7e91beb9abff62ae77858bc6ca7007da39a0637219150d21f2c0f4f3c48cc2c55ecfaae27191f6c9c2a2983b22845f0f63c8fd001de51a1c0702fcd40d5d29fb1c46c4f6b08df4b26863712a1c21472f7c3611884e63dbb617b6023c0:b4cc53b6c72912513d1e87e0c8cdd6ad",
+  "instanceUrl": "https://prolifics57-dev-ed.my.salesforce.com",
+  "orgId": "00D5i0000090EteEAE",
+  "username": "suresh@prolifics.com",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "8d613991e21678113d9a289cda03d91cfc945e08d0cfff892c9f784eae1bd0ac3acd028bb795450a2fe5301b8c5b5145d6be3e60978b6a541ee6626241a47f9aadab9f112acdbf6a575ab035d9c3d358521c2a8cc1c58e8db3bcc8c82e:13e0963e0b4507486fd56635da015144",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "64.0",
+  "instanceApiVersionLastRetrieved": "8/18/2025, 12:42:02 PM",
+  "name": "Prolifics",
+  "instanceName": "AP61",
+  "namespacePrefix": null,
+  "isSandbox": false,
+  "isScratch": false,
+  "trailExpirationDate": null,
+  "tracksSource": false
+}
